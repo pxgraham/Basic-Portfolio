@@ -6,6 +6,10 @@ body {
 a {
     color: #777777;
 }
+
+a:hover {
+    transition:0.5s all ease;
+}
 .titleBar {
     position: absolute;
     top: 0px;
